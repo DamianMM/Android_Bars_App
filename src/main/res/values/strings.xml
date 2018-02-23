@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bars</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_button">Search</string>
+    <string name="section_format1">Lionbar\t\t\t\t\t\t\t\t\t\t\t\tBar\n23 kr\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t500m</string>
+    <string name="section_format2">Victoria\t\t\t\t\t\t\t\t\t\t\t\tClub\t\t\t\t\t23 år\n48 kr\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t102m</string>
+    <string name="section_format3">Kellys\t\t\t\t\t\t\t\t\t\t\t\tBar\n29 kr\t\t\t\t\t\t\t\t\t\t\t\t\t255m</string>
+    <string name="title_activity_adv_search">AdvSearchActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="fetstring1"><a href="http://www.lionbar.se">www.lionbar.se</a></string>
+    <string name="fetstring2"><a href="http://www.vickan.nu">www.vickan.nu</a></string>
+    <string name="fetstring3"><a href="http://www.kellysbar.se">www.kellysbar.se</a></string>
+    <string name="hello">Hello World, FlickrActivity!</string>
+</resources>
